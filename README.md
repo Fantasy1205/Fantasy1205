@@ -1,7 +1,7 @@
 # Hi there, I'm Fantasy 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Fantasy&fontSize=90&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00A6FB&height=200&section=header&text=Fantasy&fontSize=90&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <p align="center">
@@ -31,15 +31,17 @@
 ---
 
 ### 📊 GitHub Analytics
-<!-- I have used a more stable link format. Replace 'Fantasy' with your EXACT GitHub handle if it is different -->
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fantasy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Fantasy's Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fantasy&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <!-- Main Stats Card (Mirror link for better visibility) -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_ACTUAL_GITHUB_ID&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Fantasy's Stats" />
+  
+  <!-- Languages Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ACTUAL_GITHUB_ID&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fantasy&theme=tokyonight" alt="GitHub Streak" />
+  <!-- Contribution Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_ACTUAL_GITHUB_ID&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -51,6 +53,6 @@
   <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Fantasy&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=YOUR_ACTUAL_GITHUB_ID&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
 </p>
