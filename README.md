@@ -1,16 +1,3 @@
-Got it! Since your GitHub ID is Fantasy1205, I have updated all the links and logic specifically for your account.
-
-I have also switched to a more stable Vercel mirror to help bypass the "Error Fetching Resource" issue you encountered.
-
-The Complete README.md for Fantasy1205
-
-Copy the entire block below and paste it into your Fantasy1205/README.md:
-
-code
-Markdown
-download
-content_copy
-expand_less
 # Hi there, I'm Fantasy1205 👋
 
 <p align="center">
@@ -44,14 +31,15 @@ expand_less
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <!-- Using a reliable mirror to avoid 'Error Fetching Resource' -->
+  <!-- 使用了更稳定的备用镜像节点 -->
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fantasy1205&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Fantasy1205's Stats" />
   
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fantasy1205&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fantasy1205&theme=tokyonight" alt="GitHub Streak" />
+  <!-- 🔥 重点修改：使用了官方推荐的最稳定域名 streak-stats.demolab.com -->
+  <img src="https://streak-stats.demolab.com/?user=Fantasy1205&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -65,22 +53,3 @@ expand_less
 <p align="right"> 
   <img src="https://komarev.com/ghpvc/?username=Fantasy1205&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
 </p>
-🛠 Final Debugging Tips for Fantasy1205:
-
-Why was it failing?
-The main github-readme-stats.vercel.app server is often overloaded by GitHub's API rate limits. I replaced it with github-readme-stats-eight-theta.vercel.app (a known stable mirror).
-
-Wait for 5 Minutes:
-After you save (Commit), GitHub's image proxy might take a few minutes to fetch the new data. If it doesn't appear immediately, hard refresh your browser (Ctrl + F5).
-
-Private Contributions:
-If your stats card looks "empty" (e.g., only shows 1 star or 0 commits), it's likely because your work is in private repositories.
-
-Go to your GitHub Profile.
-
-Above the "Contribution Graph" (the green squares), click Contribution settings.
-
-Check Private contributions. This will allow the stats card to count your private work.
-
-Network Environment:
-If you are currently on the NUDT campus network, the firewall might block vercel.app or herokuapp.com. Check your profile using your phone's mobile data (4G/5G) to see if the images load there. If they do, the code is perfect—it's just a local network restriction.
