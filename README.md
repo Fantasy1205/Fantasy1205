@@ -1,40 +1,41 @@
-# 嗨，我是 Fantasy 👋
+# Hi there, I'm Fantasy 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00A6FB&center=true&vCenter=true&width=500&lines=CS+Graduate+Student+@+NUDT;Computer+Vision+%26+3D+Reconstruction;Embodied+AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Fantasy&fontSize=90&animation=fadeIn&fontAlignY=38" />
 </p>
 
-### 🎓 关于我
-- 🏫 **教育背景**: **NUDT** 计算机科学 硕士在读
-- 🔍 **研究方向**: 计算机视觉 (CV) 与 **3D 重建 (3D Reconstruction)**
-- 💡 **核心擅长**: 
-  - **人体 & 3D 手部姿态估计 (Human & 3D Hand Pose Estimation)**
-  - **表面重建 (Surface Reconstruction)**
-  - **灵巧手 VLA (Vision-Language-Action) & 动作重定向 (Retargeting)**
-- 🔭 我目前正在致力于提升复杂场景下的多模态动作控制与高精度重建质量。
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00A6FB&center=true&vCenter=true&width=500&lines=CS+Graduate+Student+@+NUDT;Computer+Vision+%26+3D+Reconstruction;Dexterous+Hand+VLA+Research" alt="Typing SVG" />
+</p>
+
+### 🎓 About Me
+- 🏫 **Education**: Graduate Student in Computer Science at **National University of Defense Technology (NUDT)**.
+- 🔍 **Research Interests**: 
+  - **3D Reconstruction**: Focus on Human Body and 3D Hand Surface Reconstruction.
+  - **Human-centric CV**: 3D Hand/Body Pose Estimation & Shape Recovery.
+  - **Embodied AI**: Dexterous Hand VLA (Vision-Language-Action) policy and Retargeting.
+- 🔭 **Current Focus**: Bridging the gap between high-fidelity 3D human-hand modeling and robotic manipulation.
 
 ---
 
-### 🛠 技术栈
+### 🛠 Tech Stack
 <p align="left">
-  <!-- 深度学习 & 视觉库 -->
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <!-- 开发语言 -->
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <!-- 3D 相关 -->
-  <img src="https://img.shields.io/badge/-Open3D-darkblue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E94321?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub 统计数据 (Fantasy)
+### 📊 GitHub Analytics
+<!-- I have used a more stable link format. Replace 'Fantasy' with your EXACT GitHub handle if it is different -->
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fantasy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fantasy&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fantasy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Fantasy's Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fantasy&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -43,20 +44,13 @@
 
 ---
 
-### 📝 最近研究/笔记
-<!-- 如果你有个人博客或者项目文档，可以放在这里 -->
-- [ ] 3D Hand Reconstruction from Monocular RGB
-- [ ] Dexterous Hand Retargeting via Reinforcement Learning
-- [ ] Diffusion Models in VLA Policy
-
----
-
-### 📫 保持联系
+### 📫 Contact & Socials
 <p align="left">
-  <a href="mailto:your-email@nudt.edu.cn" target="blank"><img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white" /></a>
-  <a href="https://scholar.google.com/citations?user=YOUR_ID" target="blank"><img src="https://img.shields.io/badge/-Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" /></a>
+  <a href="mailto:your-email@nudt.edu.cn"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" /></a>
+  <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Fantasy&label=Profile%20views&color=0e75b6&style=flat" alt="Fantasy" />
+  <img src="https://komarev.com/ghpvc/?username=Fantasy&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
 </p>
