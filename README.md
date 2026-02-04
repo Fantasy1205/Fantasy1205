@@ -11,10 +11,11 @@
 ### 🎓 About Me
 - 🏫 **Education**: Graduate Student in Computer Science at **National University of Defense Technology (NUDT)**.
 - 🔍 **Research Interests**: 
-  - **3D Reconstruction**: Focus on Human Body and 3D Hand Surface Reconstruction.
+  - **3D Reconstruction**: Human Body and 3D Hand Surface Reconstruction.
   - **Human-centric CV**: 3D Hand/Body Pose Estimation & Shape Recovery.
-  - **Embodied AI**: Dexterous Hand VLA (Vision-Language-Action) policy and Retargeting.
-- 🔭 **Current Focus**: Bridging the gap between high-fidelity 3D human-hand modeling and robotic manipulation.
+  - **Embodied AI**: Dexterous Hand VLA (Vision-Language-Action) and Retargeting.
+- 🔭 **Current Focus**: Bridging high-fidelity 3D modeling and robotic manipulation.
+- ✍️ **Blog**: Check out my articles at [fantasy1205.github.io](https://fantasy1205.github.io)
 
 ---
 
@@ -31,21 +32,15 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <!-- 使用了更稳定的备用镜像节点 -->
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fantasy1205&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Fantasy1205's Stats" />
-  
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fantasy1205&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Stats" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fantasy1205&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <!-- 🔥 重点修改：使用了官方推荐的最稳定域名 streak-stats.demolab.com -->
-  <img src="https://streak-stats.demolab.com/?user=Fantasy1205&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 📫 Contact & Socials
 <p align="left">
+  <a href="https://fantasy1205.github.io"><img src="https://img.shields.io/badge/Website-121011?style=flat-square&logo=google-chrome&logoColor=white" /></a>
   <a href="mailto:your-email@nudt.edu.cn"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" /></a>
 </p>
